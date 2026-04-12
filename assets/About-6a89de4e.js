@@ -1,1 +1,0 @@
-import{d as n,u as e,a as s,o as c,c as m,_}from"./index-a0e4cff7.js";const l=n({__name:"About",setup(r){const{t:o}=e();return s(()=>({title:`${o("about.title")} - IT Tools`})),(t,u)=>{const a=_;return c(),m(a,{markdown:t.$t("about.content"),"mx-auto":"","mt-50px":"","max-w-600px":""},null,8,["markdown"])}}});export{l as default};
